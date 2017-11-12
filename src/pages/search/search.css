@@ -1,0 +1,13 @@
+.search-container{
+  position: absolute;
+  top:10vh;
+  width: 100vw;
+  height: 80vh;
+}
+
+
+#serachInput{
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+}

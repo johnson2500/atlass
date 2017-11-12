@@ -1,0 +1,25 @@
+.passport-container{
+  position: absolute;
+  top:10%;
+  height: 80vh;
+  width: 100vw;
+  overflow: scroll;
+  padding: 0;
+}
+.adjust-width{
+  width: inherit;
+}
+.passport-item{
+  border: 1px solid darkgrey;
+  margin-top:10px;
+}
+.adjust-width-half{
+  width: 50%;
+}
+.passport-nav{
+  width: 100%;
+}
+.passport-nav-item{
+  width: 25%;
+  float: left;
+}

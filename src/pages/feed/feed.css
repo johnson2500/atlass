@@ -1,0 +1,32 @@
+div.row{
+  margin: 0;
+}
+
+.feed-container{
+  position: absolute;
+  top:10%;
+  height: 80vh;
+  padding :0;
+  overflow: auto;
+  width: inherit;
+  -webkit-overflow-scrolling: touch;
+}
+.adjust-width{
+  width: inherit;
+}
+
+.feed-item{
+  border: 1px solid darkgrey;
+  margin-top:10px;
+}
+
+.feed-item-textarea {
+  width: 100%;
+  resize: none;
+}
+
+div.float>span {
+  float: left;
+  padding-right: 5px;
+  margin: 5px;
+}

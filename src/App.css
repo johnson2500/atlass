@@ -1,0 +1,24 @@
+.container{
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: 'Libre Baskerville', serif;
+}
+
+/* Theme */
+.footer-container,.header-container {
+  background: #76A176;
+  color: #695D47;
+}
+
+.feed-container,.passport-container,.search-container,.places-container{
+  background: #F9F1DC;
+  color: #695D47;
+}
