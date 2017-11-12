@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.css';
+// import './bootstrap/dist/css/bootstrap.css';
 import Footer from './footer/footer.js';
 import Header from './header/header.js';
 import Feed from './pages/feed/feed.js';

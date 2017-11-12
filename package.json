@@ -3,15 +3,28 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "boostrap": "^2.0.0",
     "google-map-react": "^0.25.0",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14"
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-scripts": "^1.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "objects.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnson2500/atlass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnson2500/atlass/issues"
+  },
+  "homepage": "https://github.com/johnson2500/atlass#readme"
 }

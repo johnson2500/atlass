@@ -33,7 +33,7 @@ class Profile extends Component {
             Profile
             <img id='profilePic' alt='' src='https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/20294456_325291221249142_261223857369337323_n.jpg?oh=c2a489fb2fcd145f52adcba491cab62a&oe=5A65143A' className='profile-pic'></img>
             <br/>
-            Ryan Johnson
+            Ryan Johnson is awesomes
             23 YO
             <Bio/>
           </div>
