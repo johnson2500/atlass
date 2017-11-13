@@ -26,7 +26,7 @@ class Passport extends Component {
         icon : 'th-list'
       }
     ];
-    this.content =
+    this.content;
     this.state = { mainContent : <Profile/>};
   }
 
