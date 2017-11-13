@@ -5,8 +5,8 @@
   height: 10vh;
 }
 
-.atlasLogo{
-  width: 100px;
-  z-index: 100;
-  height: auto;
+#logo{
+  padding:0;
+  margin: 0;
+  height: inherit;
 }

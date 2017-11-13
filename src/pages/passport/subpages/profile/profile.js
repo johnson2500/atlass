@@ -29,7 +29,7 @@ class Profile extends Component {
       <div className='profile-container container'>
         <div className='row'>
           <div className='col-xs-1'></div>
-          <div className='col-xs-10 text-center'>
+          <div className='col-xs-11 text-center'>
             Profile
             <img id='profilePic' alt='' src='https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/20294456_325291221249142_261223857369337323_n.jpg?oh=c2a489fb2fcd145f52adcba491cab62a&oe=5A65143A' className='profile-pic'></img>
             <br/>

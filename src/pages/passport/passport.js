@@ -60,8 +60,7 @@ class Passport extends Component {
         <p className='col-xs-1'></p>
       </div>
       <div className='row text-center'>
-        <p className='col-xs-1'></p>
-        <div className='col-xs-10'>
+        <div className='col-xs-12'>
           <div id='passportNav' className='passport-nav'>
             {
               this.iconElements = this.icons.map((icon,index)=>{
@@ -70,15 +69,11 @@ class Passport extends Component {
             }
           </div>
         </div>
-        <div className="col-xs-1">
-        </div>
       </div>
       <div className="row">
-        <div className="col-xs-1"></div>
-        <div id="passportSubPages" className="col-xs-10">
+        <div id="passportSubPages" className="col-xs-12">
           { this.state.mainContent }
           </div>
-          <div className="col-xs-1"></div>
       </div>
       </div>
     );
